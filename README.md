@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hi 👋, I'm Deepti Banger </h1>
 
-A passionate student currently pursuing a Masters degree in Artificial Intelligence. <br><br>Driven by curiosity and a desire to make a meaningful impact, I aspire to become an AI engineer. My goal is to leverage the power of intelligent systems to solve complex problems and contribute to advancements in technology and society.
+A passionate student currently pursuing a Masters degree in Artificial Intelligence. <br><br>Driven by curiosity and a desire to make a meaningful impact, I aspire to become a Data Scientist. My goal is to leverage the power of intelligent systems to solve complex problems and contribute to advancements in technology and society.
 <br><br>
 
 - 🔭 I’m currently working on **Speech Emotion Detection**
@@ -35,12 +35,19 @@ A passionate student currently pursuing a Masters degree in Artificial Intellige
 </details>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepti-Banger&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepti-Banger&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Banger&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepti-Banger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepti-Banger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
 
 ### ✍️ Quote of the Day
 ![Random Data Science Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=data%20science&new_quote=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepti-Banger&icon=0&color=0)](https://visitcount.itsvg.in)
+
