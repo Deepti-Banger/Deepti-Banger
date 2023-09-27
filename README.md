@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/40/05/b4/4005b49eff8c815df7e3f23ce638fe8c.gif" alt="Masthead" width="600" height="300">
+  <img src="(https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)" alt="Masthead" width="400" height="200">
 </p>
 
 
