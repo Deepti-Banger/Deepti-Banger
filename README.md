@@ -17,7 +17,7 @@ A passionate student currently pursuing a Masters degree in Artificial Intellige
 - 💬 Ask me about **ML, DL, AI**
 
 - 📫 How to reach me **deepti.banger2022@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1W7cb8szUs02rY6HxA696i6MwBKn4Cg9T/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1TEgzo6KIAgRlWO_GUYt10j_vvRm_ddo6/view?usp=sharing)**
 
 
 # 🌐 Socials:
