@@ -1,20 +1,20 @@
-<p align="center">
-  <img src="(https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)" alt="Masthead" width="400" height="200">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 
 
 <h1 align="center"> Hi 👋, I'm Deepti Banger </h1>
 
-A passionate student currently pursuing a Masters degree in Artificial Intelligence. <br><br>Driven by curiosity and a desire to make a meaningful impact, I aspire to become a Data Scientist. My goal is to leverage the power of intelligent systems to solve complex problems and contribute to advancements in technology and society.
+🌟 Welcome to my GitHub profile! I'm a highly motivated AI enthusiast and mathematics aficionado with a deep passion for the financial world. I aspire to become a Data Scientist. I aim to harness the capabilities of data science to model and analyze financial data, driving insights and innovation in the financial sector.
 <br><br>
 
-- 🔭 I’m currently working on **Speech Emotion Detection**
+- 🔭 I’m currently working on **Timeseries Forecasting**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 Actively studying **Quantitative finance** and **Statistical Analysis**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Deepti-Banger)**
 
-- 💬 Ask me about **ML, DL, AI**
+- 💬 Let's discuss **quantitative finance, machine learning, and data-driven strategies for the financial markets.**
 
 - 📫 How to reach me **deepti.banger2022@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1TEgzo6KIAgRlWO_GUYt10j_vvRm_ddo6/view?usp=sharing)**
@@ -31,7 +31,7 @@ A passionate student currently pursuing a Masters degree in Artificial Intellige
 
 <details>
   <summary><h3> 👩‍💻 My coding Journey </h3> </summary>
-  With a solid foundation in mathematics from my undergraduate studies, I have developed a strong analytical mindset that complements my journey into the world of AI. Throughout my academic journey, I have immersed myself in the fascinating realms of machine learning, deep learning, natural language processing, computer vision, and more. I have acquired knowledge in various AI algorithms, frameworks, and tools, and have gained practical experience through hands-on projects. I am committed to continuous learning and staying up to date with the latest developments in AI. By embracing challenges and collaborating with like-minded individuals, I strive to push the boundaries of what is possible in the field of Artificial Intelligence. Outside of my studies, I enjoy exploring new technologies, reading research papers, and engaging in discussions within the AI community. I believe in the power of collaboration and the potential to create groundbreaking solutions by combining diverse perspectives and expertise. As an AI enthusiast, I am excited about the opportunities that lie ahead. With a strong mathematical foundation, a hunger for knowledge, and a passion for AI, I am ready to embark on a fulfilling career as an AI engineer and contribute to the evolution of intelligent systems.
+  With a solid foundation in mathematics from my undergraduate studies, I have developed a strong analytical mindset that complements my journey into the world of AI. Throughout my academic journey, I have immersed myself in the fascinating realms of machine learning, deep learning, natural language processing, Time series, and more. I have acquired knowledge in various AI algorithms, frameworks, and tools, and have gained practical experience through hands-on projects. I am committed to continuous learning and staying up to date with the latest developments in AI. By embracing challenges and collaborating with like-minded individuals, I strive to push the boundaries of what is possible in the field of Artificial Intelligence. Outside of my studies, I enjoy exploring new technologies, reading research papers, and engaging in discussions within the AI and Finance communities. I believe in the power of collaboration and the potential to create groundbreaking solutions by combining diverse perspectives and expertise. As an AI enthusiast, I am excited about the opportunities that lie ahead. Armed with a robust mathematical foundation, an insatiable thirst for knowledge, and a fervor for AI, I'm poised to embark on a gratifying career as a Data Scientist within the finance domain, with the aspiration of catalyzing the evolution of intelligent systems in this dynamic field.
 </details>
 
 # 📊 GitHub Stats:
