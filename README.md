@@ -17,7 +17,7 @@
 - 💬 Let's discuss **quantitative finance, machine learning, and data-driven strategies for the financial markets.**
 
 - 📫 How to reach me **deepti.banger2022@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1TEgzo6KIAgRlWO_GUYt10j_vvRm_ddo6/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1mV_-q9oFM8LEpVdR8m-UdwTmkbaXzY1K/view?usp=sharing)**
 
 
 # 🌐 Socials:
