@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hi 👋, I'm Deepti Banger </h1>
 
-🌟 Welcome to my GitHub profile! I'm a highly motivated AI enthusiast and mathematics aficionado with a deep passion for the financial world. I aspire to become a Data Scientist. I aim to harness the capabilities of data science to model and analyze financial data, driving insights and innovation in the financial sector.
+🌟 Welcome to my GitHub profile! I'm a highly motivated AI enthusiast and mathematics aficionado with a deep passion for the financial world. I aspire to become a Quant Analyst. I aim to harness the capabilities of quantative research to model and analyze financial data, driving insights and innovation in the financial sector.
 <br><br>
 
 - 🔭 I’m currently working on **Timeseries Forecasting**
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Deepti-Banger)**
 
-- 💬 Let's discuss **quantitative finance, machine learning, and data-driven strategies for the financial markets.**
+- 💬 Let's discuss **quantitative finance, machine learning, market analysis and data-driven strategies for the financial markets.**
 
 - 📫 How to reach me **deepti.banger2022@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1mV_-q9oFM8LEpVdR8m-UdwTmkbaXzY1K/view?usp=sharing)**
